@@ -1,0 +1,32 @@
+{
+    "name": "brazales-theme",
+    "displayName": "Brazales-theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.86.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Brazales-theme",
+                "uiTheme": "hc-black",
+                "path": "./themes/Brazales-theme-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icono/icono.png",
+    "autor": {
+        "name": "Miguel Angel Brazales",
+        "email": "mbrazales@hotmail.com",
+        "url": "https://www.linkedin.com/in/miguel-angel-brazales-indias-212847278/"
+    },
+    "repository": {
+        "url": "https://github.com/mbrazales/Theme-VSCode.git",
+        "type": "git"
+    },
+    "publisher": "Theme-Brazales"
+}
